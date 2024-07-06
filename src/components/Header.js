@@ -41,7 +41,7 @@ export const Header = () => {
               {isOpen && (
                 <nav>
                   <div className="mi-header-image">
-                    <img src='./images/r7.JPEG' className='ravali_img img-fluid' alt='ravali img' />
+                    <img src='./images/r7.jpeg' className='ravali_img img-fluid' alt='ravali img' />
 
                   </div>
                   <ul>
