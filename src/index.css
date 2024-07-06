@@ -138,7 +138,7 @@ ul li {
 }
 
 .bgimage {
-  ../public/images/bg.jpg height: auto;
+  
   background-image: url('../public/images/bg3.jpg');
   background-size: cover;
   background-position: center;
