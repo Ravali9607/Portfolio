@@ -8,7 +8,7 @@ const Home = () => {
     const options = {
       strings: [
        
-        "Hi, I'm <span class='highlight'>Ravali Boorla</span><br><strong>front-end developer(React.js)</strong>",
+        "Hi, I'm <span class='highlight'>Ravali Boorla</span><br><strong>React.Js developer</strong>",
       ],
       typeSpeed: 150,
       backSpeed: 0,
