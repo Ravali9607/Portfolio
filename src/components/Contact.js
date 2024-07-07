@@ -21,7 +21,7 @@ export const Contact = () => {
                         </div>
                         <div className="text_div">
                             <h3 className="email_text">Phone</h3>
-                            <small className="email">8523049607</small>
+                            <small className="email">9874563210</small>
                         </div>
                         <div className="centers">
                             <FontAwesomeIcon icon={faEnvelope} className="icon_phone" />
