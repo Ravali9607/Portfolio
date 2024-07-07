@@ -27,7 +27,7 @@ export const About = () => {
                     <h1 style={{ color: "white" }}>Hi! I'm <span class='highlight'>Ravali Boorla</span></h1>
 
                     <p className='textsize'><span className="label">Name:</span> Ravali Boorla</p>
-                    <p className='textsize'><span className="label">Phone:</span> 8523049607</p>
+                    <p className='textsize'><span className="label">Phone:</span> 9874563210</p>
                     <p className='textsize'><span className="label">Email:</span> boorlaravali96@gmail.com</p>
                     <p className='textsize'><span className="label">From:</span> Karimnagar</p>
                     <p className='textsize'><span className="label">Language:</span> English, Telugu.</p>
