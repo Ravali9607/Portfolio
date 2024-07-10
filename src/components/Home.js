@@ -31,9 +31,9 @@ const Home = () => {
               <img src='./images/r7.jpeg'className="home_image img-fluid"/>
             </div>
             
-           <span ref={typedElement} className="typedtext"></span>
+           <div><p ref={typedElement} className="typedtext"></p></div>
            <div className="animation">
-           <p className="about_para_text mt-5">I am a front-end developer with 2 years of experience specializing in React.js. Proficient in React.js, JavaScript, HTML, and CSS, with skills in UI design, teamwork, and troubleshooting. Eager to contribute to dynamic projects.</p>
+           <p className="about_para_text ">I am a front-end developer with 2 years of experience specializing in React.js. Proficient in React.js, JavaScript, HTML, and CSS, with skills in UI design, teamwork, and troubleshooting. Eager to contribute to dynamic projects.</p>
            </div> 
            </div>
         </>
